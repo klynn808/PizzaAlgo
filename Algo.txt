@@ -1,4 +1,10 @@
 Step 1: Decide where to order the pizza from
 Step 2: Choose which pizzas you want to order
-Step 3: Order your pizzas
-Step 4: Enjoy your pizza!
+Step 3: Choose other food items you want to order
+Step 4: Give address for delivery
+Step 5: Submit payment
+Step 6: Give tip
+Step 7: Wait for your order
+Step 8: Enjoy your pizza
+Step 9: Put leftovers in the the fridge
+Step 10: Clean up kitchen
